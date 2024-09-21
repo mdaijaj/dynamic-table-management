@@ -1,2 +1,2 @@
 # dynamic-table-management
-reactjs dynamic table manage filter sorting assignment
+assignment reactjs dynamic table manage filter sorting.
